@@ -1,0 +1,9 @@
+
+{
+  "name": "Zenumama Reward",
+  "description": "A comprehensive reward application where users can earn points by completing tasks, quizzes, and watching ads, then cash out via bKash or Nagad.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
